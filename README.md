@@ -1,10 +1,9 @@
-<center>
-### Hi there 👋
-</center>
-<center>
-Seok WooHyeon
+<center>### Hi there 👋</center>
+
+<center>Seok WooHyeon</center>
+
 Web developer
-</center>
+
 Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
