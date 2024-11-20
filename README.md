@@ -10,7 +10,8 @@ Web developer
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok97&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
   
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white&color=%23f0db4f" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
   
 [![githubpage](https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=github&logoColor=white)](https://seok97.github.io/)
 
