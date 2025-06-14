@@ -2,9 +2,9 @@
   
 ### Hi there 👋
 
-Seok WooHyeon
+웹 개발자 석우현 입니다.
 
-Web developer
+[About Me](http://seokwoohyeon.duckdns.org:712/aboutme/projects)
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok97&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
