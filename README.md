@@ -4,7 +4,7 @@
 
 웹 개발자 석우현 입니다.
 
-[About Me](http://seokwoohyeon.duckdns.org:712/aboutme/projects)
+[About Me](https://seok97.github.io/)
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok97&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
